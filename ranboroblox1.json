@@ -1,6 +1,6 @@
 {
     "ads": {
-		"showAds": true,
+		"showAds": false,
 		"bannerAd": "ironsource",
 		"interstitialAd": "ironsource",
 		"nativeAd": "ironsource",
